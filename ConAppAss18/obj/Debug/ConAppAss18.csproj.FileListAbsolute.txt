@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\bin\Debug\ConAppAss18.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\bin\Debug\ConAppAss18.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\bin\Debug\ConAppAss18.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\obj\Debug\ConAppAss18.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\obj\Debug\ConAppAss18.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\obj\Debug\ConAppAss18.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss18\ConAppAss18\obj\Debug\ConAppAss18.pdb
